@@ -1,8 +1,8 @@
 ---
-title: Pub Notes
+title: Tips And Tricks
 permalink: /notes/
 layout: page
-excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
+excerpt: Divine Dube's tips and tricks
 comments: false
 ---
 
